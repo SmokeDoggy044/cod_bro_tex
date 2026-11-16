@@ -1,7 +1,7 @@
 # Call of Duty 2: Big Red One - PC texture packs
 
 Optional texture packs for our own engine implementation of *Call of Duty 2: Big Red One* on PC
-([the game](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader)). You need your own copy of the
+([HERE](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader)). You need your own copy of the
 game: the packs replace textures of your copy and cannot be used without it. This repository holds no code and
 none of the game's data; only its releases carry the packs.
 
